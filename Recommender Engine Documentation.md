@@ -59,10 +59,10 @@ We are using Python Flask to write our APIs and backend code. Here is the path f
 ## ML API Server Architecture
 This Server is developed using the Python Flask framework. We are using Nginx as a web server and gunicorn as an application server. We are using the supervisor process to manage the gunicorn server. Here is the architecture / block diagram of ML API Server.
 
-![](https://drive.google.com/drive/folders/1Qw41QWrmPKxJ1eXcCZrxKwA8YiVHIdVv?usp=sharing)
+![Test this shit]()
 
 
-![](/Pictures/MarkdownImages/ml_architecture.jpg "ML Predictive Architecture")
+
 
 
 # New Features!
